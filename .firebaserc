@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "nespace-tiger-system"
-  }
+    "default": "nespace-tiger-system",
+    "deploy": "tigersystem-1ae49"
+  },
+  "targets": {},
+  "etags": {}
 }
