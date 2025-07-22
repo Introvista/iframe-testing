@@ -1,5 +1,5 @@
 export default function FullscreenPage() {
-  const iframeSrc = "https://www.appsheet.com/start/4b674bb4-8656-4227-93c7-c97e36d530f8"
+  const iframeSrc = "https://www.appsheet.com/start/84b07815-e8e0-4697-9a4d-a96f8f5012c7"
   return (
     <div style={{ height: '100vh', width: '100vw', overflow: 'hidden' }}>
       <iframe
