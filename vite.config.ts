@@ -10,9 +10,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['logo.png'],
       manifest: {
-        name: 'Vite PWA Project',
-        short_name: 'Vite PWA',
-        description: 'I am a simple Vite PWA',
+        name: 'Nespace',
+        short_name: 'Nespace',
+        description: 'Nespace',
         theme_color: '#ffffff',
         icons: [
           {
